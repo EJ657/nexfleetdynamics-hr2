@@ -13,9 +13,9 @@ class BaseModel
     private function connect()
     {
         $host = "localhost";
-        $user = "hr2_new";
+        $user = "hr2_hr2_new";
         $password = "%#97%-vONyGc3d9%";
-        $dbname = "db_hr2_new";
+        $dbname = "hr2_db_hr2_new";
 
         $db = new mysqli($host, $user, $password, $dbname);
 
