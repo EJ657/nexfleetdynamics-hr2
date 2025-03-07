@@ -1,0 +1,25 @@
+.header-color {
+    background: white;
+}
+
+.btn-primary {
+    background: #00446b;
+}
+
+.my-color {
+    background: #00446b;
+}
+
+.custom-color {
+    color: #00446b;
+}
+
+.hoverEffect:hover {
+    background-color: #00334a;
+    color: white;
+    cursor: pointer;
+}
+
+.hoverEffect:hover .user_role {
+    color: white;
+}
